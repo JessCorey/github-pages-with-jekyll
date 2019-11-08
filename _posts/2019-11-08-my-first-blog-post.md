@@ -1,2 +1,2 @@
-title: Title of my blog
-date: 2019-11-8
+Title of my blog
+2019-11-8
