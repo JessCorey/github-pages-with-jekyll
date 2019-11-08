@@ -1,1 +1,4 @@
-Quick draft of my blog post
+---
+title: "Welcome to my blog"
+date: 2019-11-8
+---
